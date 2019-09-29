@@ -1,0 +1,4 @@
+.flex-cartHeaderContainer{
+    display: flexbox;
+    flex-direction: row;
+}

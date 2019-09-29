@@ -1,0 +1,25 @@
+.flex-categoryCartContainer{
+    display:flex;
+    flex-direction: row;
+}
+.categoryContainer{
+    width:50%;
+    padding:5px;
+}
+.cartContainer{
+    width:50%;
+    padding:5px;
+}
+@media(max-width:600px){
+    .flex-categoryCartContainer{
+        flex-direction: column;
+    }
+    .categoryContainer{
+        width:100%;
+        padding:5px;
+    }
+    .cartContainer{
+        width:100%;
+        padding:5px;
+    }
+}
