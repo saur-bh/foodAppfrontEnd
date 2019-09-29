@@ -1,0 +1,24 @@
+.flex-categoryRatingContainer{
+    display:flex;
+    flex-direction: column;
+}
+.categoryContainer{
+    margin-bottom: 20px;
+    flex:2;
+    height:30px;
+}
+.ratingPriceContainer{
+    flex:1;
+    
+}
+
+.flex-ratingPriceContainer{
+    display:flex;
+  }
+.ratingsContainer{
+    background-color: #E0E140;
+    margin-right:20px;
+}
+.ratingValues{
+    color:#FFFFFF;
+}
